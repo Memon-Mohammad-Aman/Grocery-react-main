@@ -79,8 +79,7 @@ npm install
 npm start
 Frontend will run at http://localhost:3000.
 
-📷 Screenshots
-Add screenshots or demo GIFs of your UI here if needed
+
 
 🛠️ Technologies Used
 Frontend: React, React Router, Context API
