@@ -29,6 +29,25 @@ cd Repo
 2. Backend Setup
 cd server
 npm install
+MERN-Project/
+├── client/                  # React frontend
+│   ├── public/
+│   └── src/
+│       ├── components/
+│       ├── pages/
+│       ├── context/
+│       └── App.js
+├── server/                  # Node.js backend
+│   ├── config/
+│   ├── controllers/
+│   ├── middlewares/
+│   ├── models/
+│   ├── routes/
+│   └── server.js
+├── .env
+├── package.json
+└── README.md
+
 Create a .env file in the server folder and add:
 PORT=5000
 MONGO_URI=your_mongo_connection_string
