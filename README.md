@@ -97,9 +97,9 @@ Backend: Render / Railway / Heroku
 📬 Contact & Author
 Name: Mohammad Aman Memon
 
-GitHub: @Memon-Mohammad-Aman
+GitHub: [@Memon-Mohammad-Aman](https://github.com/Memon-Mohammad-Aman)
 
-LinkedIn: Mohammad Aman Memon
+LinkedIn[: Mohammad Aman Memon](https://www.linkedin.com/in/mohammad-aman-memon/)
 
 ⭐️ Show Your Support
 If you like this project:
