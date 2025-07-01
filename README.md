@@ -20,23 +20,24 @@ A full-featured MERN (MongoDB, Express, React, Node.js) E-Commerce application b
 ## 📁 Project Folder Structure
 
 MERN-Project/
-├── client/ # React frontend
-│ ├── public/
-│ └── src/
-│ ├── components/
-│ ├── pages/
-│ ├── context/
-│ └── App.js
-├── server/ # Node.js backend
-│ ├── controllers/
-│ ├── models/
-│ ├── routes/
-│ ├── middlewares/
-│ ├── config/
-│ └── server.js
+├── client/                  # React frontend
+│   ├── public/
+│   └── src/
+│       ├── components/
+│       ├── pages/
+│       ├── context/
+│       └── App.js
+├── server/                  # Node.js backend
+│   ├── config/
+│   ├── controllers/
+│   ├── middlewares/
+│   ├── models/
+│   ├── routes/
+│   └── server.js
 ├── .env
 ├── package.json
 └── README.md
+
 
 ## ⚙️ Installation & Setup
 
