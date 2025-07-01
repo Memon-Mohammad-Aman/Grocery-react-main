@@ -1,4 +1,4 @@
-# 🧩 MERN Stack E-Commerce Application
+# 🧩 MERN Stack Grocery-Store Application
 
 A full-featured MERN (MongoDB, Express, React, Node.js) E-Commerce application built using modern technologies, best practices, and a clean, scalable architecture.
 
