@@ -25,11 +25,11 @@ A full-featured MERN (MongoDB, Express, React, Node.js) E-Commerce application b
 
 ```bash
 git clone https://github.com/Memon-Mohammad-Aman/Grocery-react-main.git
-cd Repo
+cd Grocery-react-main
 2. Backend Setup
 cd server
 npm install
-MERN-Project/
+Grocery-react-main/
 ├── client/                  # React frontend
 │   ├── public/
 │   └── src/
