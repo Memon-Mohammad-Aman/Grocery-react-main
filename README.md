@@ -38,8 +38,6 @@ MERN-Project/
 ├── package.json
 └── README.md
 
----
-
 ## ⚙️ Installation & Setup
 
 ### 1. Clone the Repository
